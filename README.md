@@ -19,8 +19,8 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Beltah-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Beltahtech/Beltah-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-MD?&style=social"></a>
+<a href="https://github.com/Popkid-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
+<a href="https://github.com/Popkidtech/Popkid-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-MD?&style=social"></a>
 <a href="https://github.com/POPKID-KE/POPKID-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkid-ke/POPKID-MD?style=social"></a>
 <a href="https://github.com/Popkid-ke/Popkid-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-MD?label=Watching&style=social"></a>
 
