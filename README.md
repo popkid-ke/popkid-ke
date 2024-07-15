@@ -1,22 +1,22 @@
-# Zokou-2.0
+# popkid-2.0
 
 
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
+popkid is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
 
 ## Key Features
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
+- **File Download:** pop kid can download audio and video files from links you send, making it easy to share them with your contacts.
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to popkid.
 
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
+- **Group Management:** popkid offers group management features, such as adding or removing members, configuring rules, and other settings.
 
 - **Text to Img:** The best logos have been selected for your convenience.
 
 ## Fun Features
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
+- **Jokes and Riddles:** popkid comes with a collection of jokes and riddles to liven up your conversations.
 
 - **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
 
