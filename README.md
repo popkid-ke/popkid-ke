@@ -13,7 +13,7 @@
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-MD+Is+Safe+on+Heroku" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=POPKID-MD+Is+Safe+on+Heroku" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -22,7 +22,7 @@
 <a href="https://github.com/Beltah-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
 <a href="https://github.com/Beltahtech/Beltah-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-MD?&style=social"></a>
 <a href="https://github.com/POPKID-KE/POPKID-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkid-ke/POPKID-MD?style=social"></a>
-<a href="https://github.com/Beltatech/Beltah-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahtech/Beltah-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Popkid-ke/Popkid-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-MD?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -38,7 +38,7 @@
   
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/popkid-ke/popkid-ke/fork"><img src="https://img.shields.io/badge/Fork%20Beltah-MD%20Repo-blue" alt="FORK POPKID-MD REPO" width="150"></a>
+<a href="https://github.com/popkid-ke/popkid-ke/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK POPKID-MD REPO" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
