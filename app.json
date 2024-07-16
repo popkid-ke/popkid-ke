@@ -1,6 +1,6 @@
 {
-  "name": "Zokou-2.0",
-  "description": "bot whatsapp développé par djalega++",
+  "name": "POPKID-2.0",
+  "description": "bot whatsapp déveloped by POPKID",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository": "https://github.com/djalega8000/Zokou-2.0",
+  "repository": "https://github.com/popkid-ke/popkid-ke",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "Popkid-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "Djalega++"
+      "value": "Popkid254🇰🇪"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "254111385747"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
