@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## *POPKID*-𝐌𝐃 V5.0.0 𝐋𝐀𝐓𝐄𝐒𝐓
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 *POPKID TECH*
@@ -75,7 +75,7 @@
  ## CONTACT DEVELOPER ON WHATSAPP 
  
 <a href="https://wa.me/254111385747" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Beltah Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Popkid Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a> 
 </p>
 
