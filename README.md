@@ -20,7 +20,7 @@
 <p/>
 <p align="center">
 <a href="https://github.com/Popkid-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Popkidtech/Popkid-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-MD?&style=social"></a>
+<a href="https://github.com/popkid-ke/popkid-ke/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-MD?&style=social"></a>
 <a href="https://github.com/POPKID-KE/POPKID-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkid-ke/POPKID-MD?style=social"></a>
 <a href="https://github.com/Popkid-ke/Popkid-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-MD?label=Watching&style=social"></a>
 
@@ -38,7 +38,7 @@
   
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://popkidsessionspair1-79d0704a1e1c.herokuapp.com/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK POPKID-MD REPO" width="150"></a>
+<a href="https://github.com/popkid-ke/popkid-ke/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK POPKID-MD REPO" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -94,3 +94,6 @@ The WhatsApp Bot *POPKID* is released under the [MIT License](https://opensource
 - [**POPKID TECH**](https://github.com/popkid-ke/popkid-ke)
 
 Popkidtech ©2024
+   *THANKS TO GOD*💕
+   > KEEP LOVING POPKID-MD
+> THANKS TO BELTAH-TECH FOR ADDING SOME FEATURES
