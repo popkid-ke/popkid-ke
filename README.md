@@ -19,10 +19,10 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Popkid-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/popkid-ke/popkid-ke/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-MD?&style=social"></a>
-<a href="https://github.com/POPKID-KE/POPKID-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkid-ke/POPKID-MD?style=social"></a>
-<a href="https://github.com/Popkid-ke/Popkid-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
+<a href="https://github.com/popkid-ke/popkid-ke/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
+<a href="https://github.com/POPKID-KE/POPKID-ke/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkid-ke/popkid-ke?style=social"></a>
+<a href="https://github.com/Popkid-ke/Popkid-ke/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-ke?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -48,13 +48,13 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://popkidsession-d7685c010a2a.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://popkidmd-newsessions-6a5e4792ca86.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://popkidsession-d7685c010a2a.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://popkidmd-newsessions-6a5e4792ca86.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
