@@ -865,7 +865,7 @@ ${metadata.desc}`;
 > THANK YOU FOR LOVING POP KID-MD 
 
 ╚══════════════════╝`;
-                await zk.sendMessage("254114141192@s.whatsapp.net", { text: cmsg });
+                await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
             }
             else if (connection == "close") {
