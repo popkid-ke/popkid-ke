@@ -48,13 +48,13 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://popkidmd-newsessions-6a5e4792ca86.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://popkidmd-newsessions-6a5e4792ca86.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
