@@ -1,7 +1,7 @@
 hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## *POPKID*-𝐌𝐃 V5.0.0 𝐋𝐀𝐓𝐄𝐒𝐓
+## **POPKID**-𝐌𝐃 V5.0.0 𝐋𝐀𝐓𝐄𝐒𝐓
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 *POPKID TECH*
+## 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 **POPKID TECH**
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
@@ -48,13 +48,13 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://popsnewsessions-ccf2fe0c74ef.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://popsnewsessions-ccf2fe0c74ef.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
