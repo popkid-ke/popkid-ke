@@ -1,1 +1,234 @@
-const a55_0x145f43=a55_0x3d85;(function(_0x36474f,_0x541980){const _0x5cce50=a55_0x3d85,_0x1824ed=_0x36474f();while(!![]){try{const _0xc9057d=parseInt(_0x5cce50(0x21d))/0x1*(parseInt(_0x5cce50(0x209))/0x2)+-parseInt(_0x5cce50(0x218))/0x3+parseInt(_0x5cce50(0x220))/0x4*(-parseInt(_0x5cce50(0x224))/0x5)+-parseInt(_0x5cce50(0x221))/0x6+parseInt(_0x5cce50(0x20d))/0x7*(parseInt(_0x5cce50(0x20e))/0x8)+parseInt(_0x5cce50(0x22b))/0x9*(parseInt(_0x5cce50(0x1e5))/0xa)+parseInt(_0x5cce50(0x210))/0xb*(-parseInt(_0x5cce50(0x200))/0xc);if(_0xc9057d===_0x541980)break;else _0x1824ed['push'](_0x1824ed['shift']());}catch(_0x32f53c){_0x1824ed['push'](_0x1824ed['shift']());}}}(a55_0x5a65,0x3e95e));const ytdl=require(a55_0x145f43(0x1fb)),yts=require(a55_0x145f43(0x1ee)),readline=require(a55_0x145f43(0x22c)),ffmpeg=require(a55_0x145f43(0x229)),NodeID3=require(a55_0x145f43(0x1ef)),fs=require('fs'),{fetchBuffer}=require('./Function'),{randomBytes}=require(a55_0x145f43(0x21c)),ytIdRegex=/(?:youtube\.com\/\S*(?:(?:\/e(?:mbed))?\/|watch\?(?:\S*?&?v\=))|youtu\.be\/)([a-zA-Z0-9_-]{6,11})/;function a55_0x3d85(_0x5df645,_0x989567){const _0x5a659b=a55_0x5a65();return a55_0x3d85=function(_0x3d857e,_0x36a999){_0x3d857e=_0x3d857e-0x1e1;let _0x2cee72=_0x5a659b[_0x3d857e];return _0x2cee72;},a55_0x3d85(_0x5df645,_0x989567);}class YT{constructor(){}static ['isYTUrl']=_0x427654=>{const _0x3cffea=a55_0x145f43;return ytIdRegex[_0x3cffea(0x21b)](_0x427654);};static [a55_0x145f43(0x1e2)]=_0x3de849=>{const _0x280d7b=a55_0x145f43;if(!this[_0x280d7b(0x1e7)](_0x3de849))throw new Error(_0x280d7b(0x215));return ytIdRegex[_0x280d7b(0x228)](_0x3de849)[0x1];};static ['WriteTags']=async(_0xfcf3be,_0x517652)=>{const _0x26a306=a55_0x145f43;NodeID3[_0x26a306(0x222)]({'title':_0x517652['Title'],'artist':_0x517652[_0x26a306(0x20a)],'originalArtist':_0x517652['Artist'],'image':{'mime':'jpeg','type':{'id':0x3,'name':_0x26a306(0x1f0)},'imageBuffer':(await fetchBuffer(_0x517652['Image']))[_0x26a306(0x21f)],'description':_0x26a306(0x223)+_0x517652[_0x26a306(0x208)]},'album':_0x517652[_0x26a306(0x225)],'year':_0x517652[_0x26a306(0x1f9)]||''},_0xfcf3be);};static [a55_0x145f43(0x1f8)]=async(_0x20c0b6,_0x210d05={})=>{const _0x2a7801=a55_0x145f43,_0x1e6092=await yts[_0x2a7801(0x1f8)]({'query':_0x20c0b6,'hl':'id','gl':'ID',..._0x210d05});return _0x1e6092[_0x2a7801(0x1fc)];};static [a55_0x145f43(0x1f5)]=async _0x37b1ed=>{const _0xf4b77=a55_0x145f43;try{const _0x38e554=Array[_0xf4b77(0x201)](_0x37b1ed)?_0x37b1ed:await this['searchTrack'](_0x37b1ed),_0x263f49=_0x38e554[0x0],_0x2a4b31=await ytdl[_0xf4b77(0x20c)](_0xf4b77(0x1e3)+_0x263f49['id'],{'lang':'id'});let _0x183f4b=ytdl(_0x263f49['id'],{'filter':_0xf4b77(0x216),'quality':0x8c}),_0x45d0ee=_0xf4b77(0x20b)+randomBytes(0x3)[_0xf4b77(0x1e1)](_0xf4b77(0x21e))+_0xf4b77(0x219);_0x183f4b['on'](_0xf4b77(0x22a),_0x42c24e=>console['log'](_0x42c24e));const _0x42876b=await new Promise(_0x591cb2=>{const _0x240b51=_0xf4b77;ffmpeg(_0x183f4b)[_0x240b51(0x214)](0xac44)[_0x240b51(0x217)](0x2)[_0x240b51(0x211)](0x80)[_0x240b51(0x1fe)]('libmp3lame')['audioQuality'](0x5)['toFormat'](_0x240b51(0x1f1))[_0x240b51(0x1e8)](_0x45d0ee)['on'](_0x240b51(0x205),()=>_0x591cb2(_0x45d0ee));});return await this['WriteTags'](_0x42876b,{'Title':_0x263f49['title'],'Artist':_0x263f49[_0xf4b77(0x1e4)],'Image':_0x263f49['image'],'Album':_0x263f49['album'],'Year':_0x2a4b31[_0xf4b77(0x1ea)][_0xf4b77(0x1eb)][_0xf4b77(0x20f)]('-')[0x0]}),{'meta':_0x263f49,'path':_0x42876b,'size':fs[_0xf4b77(0x212)](_0x45d0ee)[_0xf4b77(0x1e9)]};}catch(_0x424452){throw new Error(_0x424452);}};static [a55_0x145f43(0x1ed)]=async(_0x331d85,_0x585f70=0x86)=>{const _0x485fd6=a55_0x145f43;try{if(!_0x331d85)throw new Error(_0x485fd6(0x213));const _0x1ccc15=this['isYTUrl'](_0x331d85)?this[_0x485fd6(0x1e2)](_0x331d85):_0x331d85,_0x51cb82=await ytdl['getInfo']('https://www.youtube.com/watch?v='+_0x1ccc15,{'lang':'id'}),_0xd64520=ytdl['chooseFormat'](_0x51cb82[_0x485fd6(0x203)],{'format':_0x585f70,'filter':'videoandaudio'});return{'title':_0x51cb82[_0x485fd6(0x1ea)][_0x485fd6(0x226)],'thumb':_0x51cb82[_0x485fd6(0x1ea)][_0x485fd6(0x206)][_0x485fd6(0x1fa)](-0x1)[0x0],'date':_0x51cb82[_0x485fd6(0x1ea)][_0x485fd6(0x1eb)],'duration':_0x51cb82[_0x485fd6(0x1ea)][_0x485fd6(0x204)],'channel':_0x51cb82[_0x485fd6(0x1ea)][_0x485fd6(0x1fd)],'quality':_0xd64520['qualityLabel'],'contentLength':_0xd64520[_0x485fd6(0x1f7)],'description':_0x51cb82[_0x485fd6(0x1ea)][_0x485fd6(0x1ec)],'videoUrl':_0xd64520[_0x485fd6(0x1f4)]};}catch(_0x178ea7){throw _0x178ea7;}};static ['mp3']=async(_0x2d783d,_0x25adc1={},_0x5b6a59=![])=>{const _0x272dc9=a55_0x145f43;try{if(!_0x2d783d)throw new Error('Video\x20ID\x20or\x20YouTube\x20Url\x20is\x20required');_0x2d783d=this[_0x272dc9(0x1e7)](_0x2d783d)?_0x272dc9(0x1e3)+this['getVideoID'](_0x2d783d):_0x2d783d;const {videoDetails:_0x143571}=await ytdl[_0x272dc9(0x20c)](_0x2d783d,{'lang':'id'});let _0x18d8fd=ytdl(_0x2d783d,{'filter':_0x272dc9(0x216),'quality':0x8c}),_0x3ceef2='./'+randomBytes(0x3)[_0x272dc9(0x1e1)](_0x272dc9(0x21e))+_0x272dc9(0x219),_0x35888e;_0x18d8fd[_0x272dc9(0x21a)]('response',()=>{_0x35888e=Date['now']();}),_0x18d8fd['on'](_0x272dc9(0x205),()=>process[_0x272dc9(0x1ff)]['write']('\x0a\x0a')),_0x18d8fd['on'](_0x272dc9(0x22a),_0x4ad91c=>console['log'](_0x4ad91c));const _0x507a3e=await new Promise(_0x3383f3=>{const _0x4d3da0=_0x272dc9;ffmpeg(_0x18d8fd)[_0x4d3da0(0x214)](0xac44)[_0x4d3da0(0x217)](0x2)[_0x4d3da0(0x211)](0x80)['audioCodec']('libmp3lame')[_0x4d3da0(0x1f6)](0x5)[_0x4d3da0(0x227)]('mp3')[_0x4d3da0(0x1e8)](_0x3ceef2)['on'](_0x4d3da0(0x205),()=>{_0x3383f3(_0x3ceef2);});});return Object['keys'](_0x25adc1)[_0x272dc9(0x1f3)]!==0x0&&await this[_0x272dc9(0x202)](_0x507a3e,_0x25adc1),_0x5b6a59&&await this['WriteTags'](_0x507a3e,{'Title':_0x143571[_0x272dc9(0x226)],'Album':_0x143571[_0x272dc9(0x1f2)][_0x272dc9(0x1e6)],'Year':_0x143571[_0x272dc9(0x1eb)][_0x272dc9(0x20f)]('-')[0x0],'Image':_0x143571[_0x272dc9(0x206)][_0x272dc9(0x1fa)](-0x1)[0x0]['url']}),{'meta':{'title':_0x143571[_0x272dc9(0x226)],'channel':_0x143571[_0x272dc9(0x1f2)][_0x272dc9(0x1e6)],'seconds':_0x143571[_0x272dc9(0x204)],'description':_0x143571[_0x272dc9(0x1ec)],'image':_0x143571[_0x272dc9(0x206)][_0x272dc9(0x1fa)](-0x1)[0x0][_0x272dc9(0x1f4)]},'path':_0x507a3e,'size':fs[_0x272dc9(0x212)](_0x3ceef2)[_0x272dc9(0x1e9)]};}catch(_0x11e964){throw _0x11e964;}};}module[a55_0x145f43(0x207)]=YT;function a55_0x5a65(){const _0x512109=['audioQuality','contentLength','search','Year','slice','youtubedl-core','videos','ownerChannelName','audioCodec','stdout','8940glpONC','isArray','WriteTags','formats','lengthSeconds','end','thumbnails','exports','Title','870818djLzcw','Artist','./dustbin/','getInfo','3455648nGEceM','8OvZzHU','split','9537LMjWat','audioBitrate','statSync','Video\x20ID\x20or\x20YouTube\x20Url\x20is\x20required','audioFrequency','is\x20not\x20YouTube\x20URL','audioonly','audioChannels','617499xFjbSR','.mp3','once','test','crypto','1vcVPJI','hex','buffer','508klmwPW','326844JMqWMy','write','Cover\x20of\x20','9890SGXmUd','Album','title','toFormat','exec','fluent-ffmpeg','error','9fYpXgx','readline','toString','getVideoID','https://www.youtube.com/watch?v=','artist','4847050JhgzWX','name','isYTUrl','save','size','videoDetails','publishDate','description','mp4','youtube-yts','node-id3','front\x20cover','mp3','author','length','url','downloadMusic'];a55_0x5a65=function(){return _0x512109;};return a55_0x5a65();}
+
+const ytdl = require('youtubedl-core');
+const yts = require('youtube-yts');
+const readline = require('readline');
+const ffmpeg = require('fluent-ffmpeg')
+const NodeID3 = require('node-id3')
+const fs = require('fs');
+const { fetchBuffer } = require("./Function")
+const { randomBytes } = require('crypto')
+const ytIdRegex = /(?:youtube\.com\/\S*(?:(?:\/e(?:mbed))?\/|watch\?(?:\S*?&?v\=))|youtu\.be\/)([a-zA-Z0-9_-]{6,11})/
+
+class YT {
+    constructor() { }
+
+    /**
+     * Checks if it is yt link
+     * @param {string|URL} url youtube url
+     * @returns Returns true if the given YouTube URL.
+     */
+    static isYTUrl = (url) => {
+        return ytIdRegex.test(url)
+    }
+
+    /**
+     * VideoID from url
+     * @param {string|URL} url to get videoID
+     * @returns 
+     */
+    static getVideoID = (url) => {
+        if (!this.isYTUrl(url)) throw new Error('is not YouTube URL')
+        return ytIdRegex.exec(url)[1]
+    }
+
+    /**
+     * @typedef {Object} IMetadata
+     * @property {string} Title track title
+     * @property {string} Artist track Artist
+     * @property {string} Image track thumbnail url
+     * @property {string} Album track album
+     * @property {string} Year track release date
+     */
+
+    /**
+     * Write Track Tag Metadata
+     * @param {string} filePath 
+     * @param {IMetadata} Metadata 
+     */
+    static WriteTags = async (filePath, Metadata) => {
+        NodeID3.write(
+            {
+                title: Metadata.Title,
+                artist: Metadata.Artist,
+                originalArtist: Metadata.Artist,
+                image: {
+                    mime: 'jpeg',
+                    type: {
+                        id: 3,
+                        name: 'front cover',
+                    },
+                    imageBuffer: (await fetchBuffer(Metadata.Image)).buffer,
+                    description: `Cover of ${Metadata.Title}`,
+                },
+                album: Metadata.Album,
+                year: Metadata.Year || ''
+            },
+            filePath
+        );
+    }
+
+    /**
+     * 
+     * @param {string} query 
+     * @returns 
+     */
+    static search = async (query, options = {}) => {
+        const search = await yts.search({ query, hl: 'id', gl: 'ID', ...options })
+        return search.videos
+    }
+
+    /**
+     * @typedef {Object} TrackSearchResult
+     * @property {boolean} isYtMusic is from YT Music search?
+     * @property {string} title music title
+     * @property {string} artist music artist
+     * @property {string} id YouTube ID
+     * @property {string} url YouTube URL
+     * @property {string} album music album
+     * @property {Object} duration music duration {seconds, label}
+     * @property {string} image Cover Art
+     */
+ 
+
+    /**
+     * @typedef {Object} MusicResult
+     * @property {TrackSearchResult} meta music meta
+     * @property {string} path file path
+     */
+
+    /**
+     * Download music with full tag metadata
+     * @param {string|TrackSearchResult[]} query title of track want to download
+     * @returns {Promise<MusicResult>} filepath of the result
+     */
+    static downloadMusic = async (query) => {
+        try {
+            const getTrack = Array.isArray(query) ? query : await this.searchTrack(query);
+            const search = getTrack[0]//await this.searchTrack(query)
+            const videoInfo = await ytdl.getInfo('https://www.youtube.com/watch?v=' + search.id, { lang: 'id' });
+            let stream = ytdl(search.id, { filter: 'audioonly', quality: 140 });
+            let songPath = `./dustbin/${randomBytes(3).toString('hex')}.mp3`
+            stream.on('error', (err) => console.log(err))
+
+            const file = await new Promise((resolve) => {
+                ffmpeg(stream)
+                    .audioFrequency(44100)
+                    .audioChannels(2)
+                    .audioBitrate(128)
+                    .audioCodec('libmp3lame')
+                    .audioQuality(5)
+                    .toFormat('mp3')
+                    .save(songPath)
+                    .on('end', () => resolve(songPath))
+            });
+            await this.WriteTags(file, { Title: search.title, Artist: search.artist, Image: search.image, Album: search.album, Year: videoInfo.videoDetails.publishDate.split('-')[0] });
+            return {
+                meta: search,
+                path: file,
+                size: fs.statSync(songPath).size
+            }
+        } catch (error) {
+            throw new Error(error)
+        }
+    }
+
+    /**
+     * get downloadable video urls
+     * @param {string|URL} query videoID or YouTube URL
+     * @param {string} quality 
+     * @returns
+     */
+    static mp4 = async (query, quality = 134) => {
+        try {
+            if (!query) throw new Error('Video ID or YouTube Url is required')
+            const videoId = this.isYTUrl(query) ? this.getVideoID(query) : query
+            const videoInfo = await ytdl.getInfo('https://www.youtube.com/watch?v=' + videoId, { lang: 'id' });
+            const format = ytdl.chooseFormat(videoInfo.formats, { format: quality, filter: 'videoandaudio' })
+            return {
+                title: videoInfo.videoDetails.title,
+                thumb: videoInfo.videoDetails.thumbnails.slice(-1)[0],
+                date: videoInfo.videoDetails.publishDate,
+                duration: videoInfo.videoDetails.lengthSeconds,
+                channel: videoInfo.videoDetails.ownerChannelName,
+                quality: format.qualityLabel,
+                contentLength: format.contentLength,
+                description:videoInfo.videoDetails.description,
+                videoUrl: format.url
+            }
+        } catch (error) {
+            throw error
+        }
+    }
+
+    /**
+     * Download YouTube to mp3
+     * @param {string|URL} url YouTube link want to download to mp3
+     * @param {IMetadata} metadata track metadata
+     * @param {boolean} autoWriteTags if set true, it will auto write tags meta following the YouTube info
+     * @returns 
+     */
+    static mp3 = async (url, metadata = {}, autoWriteTags = false) => {
+        try {
+            if (!url) throw new Error('Video ID or YouTube Url is required')
+            url = this.isYTUrl(url) ? 'https://www.youtube.com/watch?v=' + this.getVideoID(url) : url
+            const { videoDetails } = await ytdl.getInfo(url, { lang: 'id' });
+            let stream = ytdl(url, { filter: 'audioonly', quality: 140 });
+            let songPath = `./${randomBytes(3).toString('hex')}.mp3`
+
+            let starttime;
+            stream.once('response', () => {
+                starttime = Date.now();
+            });
+            /*
+            stream.on('progress', (chunkLength, downloaded, total) => {
+                const percent = downloaded / total;
+                const downloadedMinutes = (Date.now() - starttime) / 1000 / 60;
+                const estimatedDownloadTime = (downloadedMinutes / percent) - downloadedMinutes;
+                readline.cursorTo(process.stdout, 0);
+                process.stdout.write(`${(percent * 100).toFixed(2)}% downloaded `);
+                process.stdout.write(`(${(downloaded / 1024 / 1024).toFixed(2)}MB of ${(total / 1024 / 1024).toFixed(2)}MB)\n`);
+                process.stdout.write(`running for: ${downloadedMinutes.toFixed(2)}minutes`);
+                process.stdout.write(`, estimated time left: ${estimatedDownloadTime.toFixed(2)}minutes `);
+                readline.moveCursor(process.stdout, 0, -1);
+                //let txt = `${bgColor(color('[FFMPEG]]', 'black'), '#38ef7d')} ${color(moment().format('DD/MM/YY HH:mm:ss'), '#A1FFCE')} ${gradient.summer('[Converting..]')} ${gradient.cristal(p.targetSize)} kb`
+            });*/
+            stream.on('end', () => process.stdout.write('\n\n'));
+            stream.on('error', (err) => console.log(err))
+
+            const file = await new Promise((resolve) => {
+                ffmpeg(stream)
+                    .audioFrequency(44100)
+                    .audioChannels(2)
+                    .audioBitrate(128)
+                    .audioCodec('libmp3lame')
+                    .audioQuality(5)
+                    .toFormat('mp3')
+                    .save(songPath)
+                    .on('end', () => {
+                        resolve(songPath)
+                    })
+            });
+            if (Object.keys(metadata).length !== 0) {
+                await this.WriteTags(file, metadata)
+            }
+            if (autoWriteTags) {
+                await this.WriteTags(file, { Title: videoDetails.title, Album: videoDetails.author.name, Year: videoDetails.publishDate.split('-')[0], Image: videoDetails.thumbnails.slice(-1)[0].url })
+            }
+            return {
+                meta: {
+                    title: videoDetails.title,
+                    channel: videoDetails.author.name,
+                    seconds: videoDetails.lengthSeconds,
+                    description:videoDetails.description,
+                    image: videoDetails.thumbnails.slice(-1)[0].url
+                },
+                path: file,
+                size: fs.statSync(songPath).size
+            }
+        } catch (error) {
+            throw error
+        }
+    }
+}
+
+module.exports = YT;
